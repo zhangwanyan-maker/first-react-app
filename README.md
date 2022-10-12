@@ -1,2 +1,2 @@
 # try
-good to know that i'm trying to do something new.
+practice react native and something else.
