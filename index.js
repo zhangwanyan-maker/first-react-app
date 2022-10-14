@@ -10,6 +10,8 @@ import './index.css';
       );
     }
 
+    lalalalalala;
+
   
   class Board extends React.Component {
 
